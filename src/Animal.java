@@ -26,7 +26,7 @@ public class Animal {
         return especie;
     }
 
-    public double peso() {
+    public double getPeso() {
         return peso;
     }
 
